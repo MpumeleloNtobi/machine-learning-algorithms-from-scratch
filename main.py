@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-    Programmer: Mpumelelo Ntobi
-    Date: Thu Feb 16 17:23:12 2023
-    
-    Writing code makes me happy.
-"""
-
 # Import library
 import matplotlib.pyplot as plt
 
